@@ -147,3 +147,7 @@ Table of Contents
 ## [↑](#table-of-contents) Miscellaneous
 * [AS400i.com](http://as400i.com/)
 * [Hack The Legacy Website](http://hackthelegacy.org/)
+
+
+## [↑](#table-of-contents) Not sorted
+* [z/OS MVS](https://d3c33hcgiwev3.cloudfront.net/WVP_fs5gEemXFQqkMWIiQg_68054bc67579495bb1143c282e67ea5a_PRS3699-IPL-Logic-Flow-V2.pdf?Expires=1587254400&Signature=HFh~GFDnROi86ycQo-xdRsGxVqG-2X0UdoxrytedE~qCrP41euVitGoohfLL-nRmXY-38FABHtJV~7xfNot8U6mYn0-G4QPiU-DW9bKkx0ipT4KsLaPmxw1JvHMvlfGr5Z8k1LCRESTA3CmfL8iKNLvm7Qx20lWyp43U6DMGnsw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
